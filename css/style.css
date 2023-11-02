@@ -192,14 +192,14 @@ h6 {
   border-radius: 50px;
   color: #fff;
   font-size: 14px;
-  border: 2px solid #420b2b;
+  border: 2px solid #631744;
   font-weight: 600;
 }
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #31a9e1;
+  background: #7d596e;
 }
 
 .navbar .dropdown ul {
